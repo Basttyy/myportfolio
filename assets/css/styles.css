@@ -1,0 +1,35 @@
+/* Custom Stylesheet */
+
+
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.logo {
+    font-weight: 300;
+    padding-left: 10px;
+}
+
+.section-header {
+    font-weight: 300;
+}
+
+.thin-text,
+.cta {
+    font-weight: 300;
+    background: rgba(96, 125, 139, .6);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.contact-form {
+    padding-top: 40px;
+}
+
+.cta {
+    font-weight: 400;
+    text-shadow: 1px 1px black;
+}
